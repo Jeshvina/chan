@@ -1,4 +1,4 @@
 import statistics
 a=int(input())
-b=[int(i) for i in range input().split()]
+b=[int(i) for i in input().split()]
 print(statistics.median(b))
